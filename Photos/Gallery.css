@@ -1,0 +1,19 @@
+.jumbotron {
+	color:#2c3e50
+}
+
+.customback {
+	background-color: red;
+}
+
+.brandIcon {
+	font-size: 36px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	vertical-align: bottom;
+}
+
+.navIcon {
+	font-size: 30px;
+	vertical-align: middle;
+}
